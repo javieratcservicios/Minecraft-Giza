@@ -37,7 +37,7 @@ Las capturas provienen del juego nativo. Se pueden abrir en tamaño completo des
 
 ## Es una aplicación nativa de Python
 
-El juego y su interfaz se ejecutan con **pygame, NumPy y PyOpenGL**. No hay HTML, CSS, JavaScript, servidor web ni navegador. Los shaders GLSL integrados en `giza_hd.py` se ejecutan en la GPU para dibujar los efectos gráficos.
+El juego y su interfaz se ejecutan con **pygame, NumPy y PyOpenGL**. Los shaders GLSL integrados en `giza_hd.py` se ejecutan en la GPU para dibujar los efectos gráficos.
 
 La edición HD añade materiales de **128 × 128**, mipmaps, filtrado anisotrópico hasta 8×, antialiasing 4× cuando lo admite el controlador, sombras solares con filtro suave, oclusión ambiental, cielo atmosférico y agua con reflejo del cielo. Los monumentos lejanos conservan su geometría de bloques.
 
