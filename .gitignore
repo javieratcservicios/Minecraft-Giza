@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+giza_partida.json
+giza_partida.tmp
+giza_error.log
+*.log
+.env
+.env.*
+respaldo*/
+.DS_Store
+Thumbs.db
+giza_mapa.bin

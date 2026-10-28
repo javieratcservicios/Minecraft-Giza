@@ -1,0 +1,9 @@
+*.py linguist-language=Python
+*.md text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.bin binary linguist-generated=true
+*.npy binary linguist-generated=true
+*.npz binary linguist-generated=true
+fuentes/** linguist-vendored=true
+docs/capturas/** binary

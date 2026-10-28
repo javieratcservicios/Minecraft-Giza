@@ -1,0 +1,31 @@
+{
+  "format": "zlib-chunks-uint16-le",
+  "chunk_shape": [
+    16,
+    16,
+    256
+  ],
+  "total_bytes": 168416036,
+  "parts": [
+    {
+      "file": "giza_mapa.part000.bin",
+      "bytes": 50331648,
+      "sha256": "886bd64ca71efa5039ae9c47bc6071771d0e725c05ceabaa0cc66bc2c2d2217f"
+    },
+    {
+      "file": "giza_mapa.part001.bin",
+      "bytes": 50331648,
+      "sha256": "ada7d81e088f878cb419803103fae72959f25d2da3afab0bd553df7b25ad185b"
+    },
+    {
+      "file": "giza_mapa.part002.bin",
+      "bytes": 50331648,
+      "sha256": "f6481615568342ce41450b08ce7ccc66754bda1ce0d0c1c3c936fb8f21b494ab"
+    },
+    {
+      "file": "giza_mapa.part003.bin",
+      "bytes": 17421092,
+      "sha256": "51ef9aae2e81b76671a8ff876b1e9e3021e7cc09c7d7fc3d21fd6b22e882c5ed"
+    }
+  ]
+}
